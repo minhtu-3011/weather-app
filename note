@@ -1,0 +1,6 @@
+===== MODEL PERFORMANCE =====
+Temperature MAE: 0.61
+Humidity MAE: 2.88
+Wind MAE: 1.95
+Weather Accuracy: 0.85
+Overall R2 Score: 0.78

@@ -11,7 +11,7 @@ body {
 
 .card {
   width: 90%;
-  max-width: 470px;
+  max-width: 500px;
   background: linear-gradient(135deg, #00feba, #5b548a);
   color: #fff;
   margin: 100px auto 0;
@@ -105,4 +105,10 @@ body {
   margin-top: 10px;
   color: rgb(254, 61, 61);
   display: none;
+}
+
+.predict-btn {
+  width: 70px !important;
+  border-radius: 30% !important;
+  margin-left: 10px;
 }
